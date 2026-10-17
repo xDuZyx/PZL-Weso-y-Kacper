@@ -4,7 +4,7 @@ API do tworzenia i zarządzania zadaniami
 
 
 
-\## Technologie 
+\## Technologie
 
 * c#
 * .NET SDK
@@ -15,27 +15,25 @@ API do tworzenia i zarządzania zadaniami
 
 \## Uruchomienie i środowisko
 
-Git 
+Git
 
 .NET SDK w wersji zgodnej z projektem
 
 
 
-Póki co to wstęp 
+Póki co to wstęp
 
 
 
-\## AUtor 
+\## AUtor
 
-Kacper Wesoły 
+Kacper Wesoły, numer albumu 175489
 
 
 
 \## Status projektu
 
-Porjekt znajduje się na etapie przygotowania, bez funkcjonalności biznesowej
+Projekt znajduje się na etapie przygotowania, bez funkcjonalności biznesowej
 
-
-
-
+Zmiany będą na oddzielnWych branchach
 
