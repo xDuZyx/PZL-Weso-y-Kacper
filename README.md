@@ -4,25 +4,36 @@ API do tworzenia i zarządzania zadaniami
 
 
 
+\## Technologie
+
+* c#
+* .NET SDK
+* ASP.NET Core
+* Git i GitHub
+
+
+
+\## Uruchomienie i środowisko
+
+Git
+
+.NET SDK w wersji zgodnej z projektem
+
+
+
+Póki co to wstęp
+
+
+
+\## AUtor
+
+Kacper Wesoły, numer albumu 175489
+
+
+
 \## Status projektu
 
-Porjekt znajduje się na etapie przygotowania, bez funkcjonalności biznesowej
+Projekt znajduje się na etapie przygotowania, bez funkcjonalności biznesowej
 
-
-
-\## Wymagania
-
-Git, .NET SDK
-
-
-
-\## Rozpoczęcie pracy
-
-c.d.n.
-
-
-
-\##edycja 1 
-
-sprawdzam co to branch i czy to cos zmienia
+Zmiany będą na oddzielnWych branchach
 
