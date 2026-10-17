@@ -10,7 +10,7 @@ Porjekt znajduje się na etapie przygotowania, bez funkcjonalności biznesowej
 
 
 
-\## Wymagania 
+\## Wymagania
 
 Git, .NET SDK
 
@@ -18,5 +18,11 @@ Git, .NET SDK
 
 \## Rozpoczęcie pracy
 
-c.d.n. 
+c.d.n.
+
+
+
+\##edycja 1 
+
+sprawdzam co to branch i czy to cos zmienia
 
